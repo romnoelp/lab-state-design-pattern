@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2f242014-ffac-4823-bdcc-1e0c5957beb1)
+
+
 # Vending Machine State Management
 
 ## Problem Statement
