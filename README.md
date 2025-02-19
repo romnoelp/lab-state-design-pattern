@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/68283a74-3bc6-48f3-9ab6-f880deac334a)
 
 
 # Vending Machine State Management
